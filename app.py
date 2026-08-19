@@ -1,6 +1,7 @@
 
 import os
 import joblib
+import sqlite3
 import pandas as pd
 import plotly.express as px
 import streamlit as st
@@ -125,23 +126,71 @@ def load_data():
 # ============================================================
 # CHECK DATABASE
 # ============================================================
+# ============================================================
+# DATABASE PATH
+# ============================================================
 
-database_path = os.path.join(
-    "database",
-    "ecommerce.db",
+PROJECT_ROOT = os.path.dirname(
+    os.path.abspath(__file__)
 )
 
-if not os.path.exists(database_path):
+database_path = os.path.join(
+    PROJECT_ROOT,
+    "database",
+    "ecommerce.db"
+)
+
+if not os.path.isfile(database_path):
+
     st.error(
-        "Database not found. Run data cleaning and database "
-        "creation first."
+        f"Database not found at: {database_path}"
     )
+
+    st.info(
+        "Make sure database/ecommerce.db exists."
+    )
+
     st.stop()
 
+conn = sqlite3.connect(database_path)
+# ============================================================
+# LOAD DATABASE TABLES
+# ============================================================
 
-customers, products, orders, marketing, inventory = load_data()
+try:
 
+    customers = pd.read_sql_query(
+        "SELECT * FROM customers",
+        conn
+    )
 
+    products = pd.read_sql_query(
+        "SELECT * FROM products",
+        conn
+    )
+
+    orders = pd.read_sql_query(
+        "SELECT * FROM orders",
+        conn
+    )
+
+    marketing = pd.read_sql_query(
+        "SELECT * FROM marketing",
+        conn
+    )
+
+    inventory = pd.read_sql_query(
+        "SELECT * FROM inventory",
+        conn
+    )
+
+except Exception as exc:
+
+    st.error(
+        f"Unable to load database tables: {exc}"
+    )
+
+    st.stop()
 # ============================================================
 # DATA PREPARATION
 # ============================================================
