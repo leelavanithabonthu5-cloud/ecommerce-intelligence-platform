@@ -1,0 +1,6 @@
+file,rows,columns,missing_values,duplicate_rows,duplicate_keys
+customers.csv,10000,9,50,0,0
+products.csv,150,8,0,0,0
+orders.csv,50050,12,0,50,50
+marketing.csv,100,9,0,0,0
+inventory.csv,150,6,0,0,0

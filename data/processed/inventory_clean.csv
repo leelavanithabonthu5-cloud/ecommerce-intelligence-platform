@@ -1,0 +1,151 @@
+product_id,stock_quantity,reorder_level,supplier,lead_time_days,last_restock_date
+P0001,98,30,Metro Wholesale,20,2025-06-25
+P0002,26,60,Urban Supply,17,2025-12-22
+P0003,207,33,Metro Wholesale,10,2025-08-29
+P0004,131,57,Urban Supply,4,2025-04-05
+P0005,141,31,Global Traders,10,2025-04-19
+P0006,196,58,Prime Distribution,4,2025-02-27
+P0007,500,51,Global Traders,6,2025-06-02
+P0008,310,29,Metro Wholesale,4,2025-12-19
+P0009,188,72,Direct Imports,17,2025-06-14
+P0010,363,45,Urban Supply,11,2025-04-04
+P0011,272,72,Urban Supply,13,2025-12-14
+P0012,180,22,Metro Wholesale,7,2025-08-10
+P0013,144,46,Urban Supply,21,2025-07-27
+P0014,443,20,Metro Wholesale,16,2025-11-07
+P0015,197,49,Prime Distribution,3,2025-10-30
+P0016,20,70,Direct Imports,4,2025-11-17
+P0017,228,100,Direct Imports,11,2025-04-24
+P0018,269,100,Prime Distribution,9,2025-10-28
+P0019,43,59,Urban Supply,6,2025-07-23
+P0020,495,55,Direct Imports,13,2025-10-15
+P0021,404,94,Urban Supply,5,2025-07-21
+P0022,187,23,Metro Wholesale,19,2025-01-30
+P0023,110,64,Global Traders,10,2025-04-22
+P0024,30,68,Prime Distribution,19,2025-01-19
+P0025,336,71,TechSupplier,4,2025-03-31
+P0026,84,78,Global Traders,5,2025-12-30
+P0027,163,99,Prime Distribution,12,2025-02-02
+P0028,229,55,Urban Supply,16,2025-01-16
+P0029,374,23,Urban Supply,4,2025-02-19
+P0030,341,22,Urban Supply,8,2025-02-02
+P0031,58,69,TechSupplier,10,2025-11-10
+P0032,347,51,TechSupplier,15,2025-04-03
+P0033,308,48,Global Traders,9,2025-05-07
+P0034,260,35,TechSupplier,12,2025-07-17
+P0035,303,33,Global Traders,20,2025-03-31
+P0036,462,23,Direct Imports,15,2025-11-23
+P0037,398,88,Prime Distribution,5,2025-05-25
+P0038,147,66,Direct Imports,2,2025-04-08
+P0039,302,31,Prime Distribution,13,2025-09-05
+P0040,72,93,Urban Supply,3,2025-06-05
+P0041,327,30,Global Traders,14,2025-04-28
+P0042,323,39,Urban Supply,19,2025-09-28
+P0043,299,35,Global Traders,10,2025-07-29
+P0044,115,30,Prime Distribution,4,2025-10-15
+P0045,231,41,Direct Imports,4,2025-03-22
+P0046,80,59,Global Traders,6,2025-11-19
+P0047,377,23,Urban Supply,21,2025-03-16
+P0048,146,77,Prime Distribution,17,2025-07-14
+P0049,397,74,Urban Supply,10,2025-08-20
+P0050,49,88,Metro Wholesale,17,2025-04-04
+P0051,156,69,Direct Imports,15,2025-04-14
+P0052,214,44,Prime Distribution,9,2025-07-19
+P0053,12,47,Prime Distribution,6,2025-12-31
+P0054,155,76,Metro Wholesale,19,2025-11-18
+P0055,121,37,Urban Supply,15,2025-03-28
+P0056,448,75,Global Traders,19,2025-04-22
+P0057,381,47,Prime Distribution,13,2025-01-18
+P0058,184,52,TechSupplier,14,2025-11-21
+P0059,79,86,Metro Wholesale,4,2025-01-07
+P0060,187,98,Direct Imports,2,2025-08-18
+P0061,248,56,Urban Supply,8,2025-05-21
+P0062,227,59,Metro Wholesale,5,2025-01-28
+P0063,49,20,Prime Distribution,7,2025-04-11
+P0064,163,24,Urban Supply,21,2025-01-28
+P0065,396,64,Direct Imports,18,2025-07-30
+P0066,333,36,Prime Distribution,16,2025-02-16
+P0067,349,88,Urban Supply,5,2025-12-01
+P0068,70,93,TechSupplier,7,2025-07-09
+P0069,480,20,Global Traders,8,2025-11-18
+P0070,172,53,Direct Imports,20,2025-02-20
+P0071,390,61,TechSupplier,2,2025-03-19
+P0072,476,74,Urban Supply,6,2025-10-14
+P0073,415,20,TechSupplier,17,2025-09-28
+P0074,105,23,Direct Imports,20,2025-04-06
+P0075,237,35,TechSupplier,3,2025-05-11
+P0076,94,56,Global Traders,10,2025-05-23
+P0077,229,34,Direct Imports,18,2025-09-09
+P0078,12,61,TechSupplier,10,2025-10-17
+P0079,450,91,TechSupplier,10,2025-06-08
+P0080,380,80,Prime Distribution,16,2025-08-16
+P0081,266,85,Global Traders,9,2025-11-10
+P0082,307,36,Metro Wholesale,10,2025-04-13
+P0083,12,95,Global Traders,20,2025-12-08
+P0084,335,64,Urban Supply,10,2025-03-08
+P0085,299,30,Metro Wholesale,19,2025-01-03
+P0086,260,94,Direct Imports,12,2025-09-18
+P0087,171,31,Prime Distribution,5,2025-08-25
+P0088,96,81,TechSupplier,7,2025-07-25
+P0089,438,79,Metro Wholesale,4,2025-04-08
+P0090,413,98,Urban Supply,6,2025-11-07
+P0091,96,75,Urban Supply,10,2025-08-14
+P0092,440,41,TechSupplier,11,2025-08-09
+P0093,12,79,TechSupplier,20,2025-09-24
+P0094,129,81,Metro Wholesale,17,2025-11-06
+P0095,64,64,Urban Supply,13,2025-11-28
+P0096,177,38,TechSupplier,13,2025-11-26
+P0097,269,85,TechSupplier,5,2025-02-10
+P0098,304,40,Urban Supply,13,2025-06-24
+P0099,177,34,Global Traders,15,2025-01-07
+P0100,81,85,TechSupplier,11,2025-07-20
+P0101,21,93,Direct Imports,16,2025-08-16
+P0102,158,93,Prime Distribution,4,2025-12-24
+P0103,408,76,Direct Imports,16,2025-01-02
+P0104,469,27,Direct Imports,5,2025-05-10
+P0105,436,84,Metro Wholesale,10,2025-05-08
+P0106,251,36,Global Traders,7,2025-05-04
+P0107,354,22,Prime Distribution,18,2025-08-20
+P0108,318,93,Prime Distribution,20,2025-06-17
+P0109,147,49,TechSupplier,9,2025-11-15
+P0110,286,74,Prime Distribution,9,2025-01-22
+P0111,181,59,Prime Distribution,15,2025-12-01
+P0112,354,99,Prime Distribution,12,2025-08-15
+P0113,258,30,Prime Distribution,16,2025-01-15
+P0114,353,83,Prime Distribution,10,2025-11-08
+P0115,55,96,Global Traders,4,2025-11-04
+P0116,197,44,Urban Supply,17,2025-10-24
+P0117,472,64,Urban Supply,18,2025-11-14
+P0118,330,80,Urban Supply,21,2025-01-27
+P0119,15,63,Metro Wholesale,18,2025-02-06
+P0120,174,88,Metro Wholesale,15,2025-09-28
+P0121,136,34,Prime Distribution,14,2025-07-18
+P0122,287,79,Urban Supply,10,2025-10-05
+P0123,42,63,Direct Imports,10,2025-05-02
+P0124,67,86,TechSupplier,12,2025-11-13
+P0125,141,96,TechSupplier,13,2025-12-03
+P0126,381,69,Direct Imports,17,2025-02-04
+P0127,253,46,Direct Imports,21,2025-04-18
+P0128,209,74,Direct Imports,10,2025-11-19
+P0129,124,31,TechSupplier,10,2025-04-14
+P0130,21,20,Metro Wholesale,18,2025-02-22
+P0131,465,34,Urban Supply,17,2025-10-18
+P0132,136,91,Global Traders,6,2025-06-30
+P0133,438,54,Metro Wholesale,17,2025-07-11
+P0134,187,53,TechSupplier,4,2025-04-27
+P0135,351,85,Prime Distribution,2,2025-02-18
+P0136,266,62,Prime Distribution,21,2025-08-25
+P0137,316,34,Metro Wholesale,15,2025-06-02
+P0138,215,94,Direct Imports,3,2025-01-21
+P0139,148,66,Urban Supply,5,2025-08-12
+P0140,24,56,Direct Imports,14,2025-07-25
+P0141,278,25,Prime Distribution,13,2025-07-04
+P0142,499,20,TechSupplier,11,2025-10-18
+P0143,323,89,Global Traders,13,2025-09-22
+P0144,488,44,Urban Supply,13,2025-05-31
+P0145,311,41,TechSupplier,21,2025-08-28
+P0146,18,50,Global Traders,14,2025-05-20
+P0147,187,20,Prime Distribution,18,2025-07-18
+P0148,152,22,Global Traders,6,2025-12-15
+P0149,202,77,Metro Wholesale,16,2025-06-04
+P0150,63,76,Urban Supply,12,2025-06-11

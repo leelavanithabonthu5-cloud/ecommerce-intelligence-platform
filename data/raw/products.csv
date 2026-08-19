@@ -1,0 +1,151 @@
+product_id,product_name,category,supplier,unit_cost,selling_price,stock_quantity,reorder_level
+P0001,Smartphone 1,Electronics,Global Traders,244.8,509.03,98,30
+P0002,Bedside Table 2,Furniture,TechSupplier,53.11,111.04,26,60
+P0003,Water Bottle 3,Home & Kitchen,Urban Supply,139.55,299.78,207,33
+P0004,Storage Cabinet 4,Furniture,TechSupplier,227.39,336.39,131,57
+P0005,Watch Strap 5,Accessories,Prime Distribution,54.75,80.64,141,31
+P0006,Novel 6,Books,Prime Distribution,32.3,61.67,196,58
+P0007,Bookshelf 7,Furniture,Global Traders,451.47,669.5,500,51
+P0008,Perfume 8,Beauty,Metro Wholesale,39.8,77.57,310,29
+P0009,Dumbbells 9,Sports,Metro Wholesale,156.68,215.69,188,72
+P0010,Coffee Maker 10,Home & Kitchen,Metro Wholesale,164.12,327.02,363,45
+P0011,Cookware Set 11,Home & Kitchen,Urban Supply,201.04,347.72,272,72
+P0012,Skipping Rope 12,Sports,TechSupplier,162.69,242.74,180,22
+P0013,Sunglasses 13,Accessories,Prime Distribution,92.74,133.59,144,46
+P0014,Formal Shirt 14,Clothing,TechSupplier,117.2,184.71,443,20
+P0015,Bedside Table 15,Furniture,Metro Wholesale,124.86,178.17,197,49
+P0016,Gym Bag 16,Sports,Urban Supply,184.32,375.32,20,70
+P0017,Children's Book 17,Books,Urban Supply,22.77,43.15,228,100
+P0018,Travel Bag 18,Accessories,TechSupplier,127.36,191.09,269,100
+P0019,Water Bottle 19,Home & Kitchen,Prime Distribution,62.48,87.62,43,59
+P0020,Sneakers 20,Clothing,Direct Imports,39.65,57.53,495,55
+P0021,Novel 21,Books,TechSupplier,22.43,40.9,404,94
+P0022,Shampoo 22,Beauty,Direct Imports,18.46,36.9,187,23
+P0023,Mechanical Keyboard 23,Electronics,Urban Supply,619.04,1006.36,110,64
+P0024,Dining Chair 24,Furniture,Global Traders,74.4,153.77,30,68
+P0025,Sneakers 25,Clothing,Prime Distribution,21.53,31.99,336,71
+P0026,Coffee Table 26,Furniture,TechSupplier,306.28,655.1,84,78
+P0027,Wireless Headphones 27,Electronics,Urban Supply,407.89,857.99,163,99
+P0028,Bookshelf 28,Furniture,Global Traders,590.84,818.18,229,55
+P0029,Gym Bag 29,Sports,Urban Supply,206.58,283.82,374,23
+P0030,Bookshelf 30,Furniture,Prime Distribution,516.75,739.74,341,22
+P0031,Power Bank 31,Electronics,Global Traders,472.34,871.77,58,69
+P0032,Mixer Grinder 32,Home & Kitchen,Metro Wholesale,68.27,124.54,347,51
+P0033,Formal Shirt 33,Clothing,Global Traders,81.64,162.7,308,48
+P0034,Novel 34,Books,TechSupplier,15.72,26.62,260,35
+P0035,Sneakers 35,Clothing,Global Traders,43.72,69.77,303,33
+P0036,Coffee Maker 36,Home & Kitchen,Metro Wholesale,312.34,463.12,462,23
+P0037,Jacket 37,Clothing,TechSupplier,107.22,171.61,398,88
+P0038,Mixer Grinder 38,Home & Kitchen,TechSupplier,128.62,254.21,147,66
+P0039,Self Help Book 39,Books,Metro Wholesale,37.99,72.42,302,31
+P0040,Travel Bag 40,Accessories,Metro Wholesale,21.54,31.91,72,93
+P0041,Tablet 41,Electronics,TechSupplier,166.45,296.4,327,30
+P0042,Wallet 42,Accessories,Global Traders,8.25,16.79,323,39
+P0043,Dinner Set 43,Home & Kitchen,Global Traders,48.1,103.14,299,35
+P0044,Dinner Set 44,Home & Kitchen,Prime Distribution,235.01,335.2,115,30
+P0045,Dinner Set 45,Home & Kitchen,Urban Supply,141.9,199.19,231,41
+P0046,Watch Strap 46,Accessories,Prime Distribution,33.51,61.2,80,59
+P0047,Mechanical Keyboard 47,Electronics,Direct Imports,165.45,260.08,377,23
+P0048,Dumbbells 48,Sports,Urban Supply,111.99,176.65,146,77
+P0049,Backpack 49,Accessories,Direct Imports,118.32,192.8,397,74
+P0050,Hoodie 50,Clothing,Urban Supply,118.71,162.49,49,88
+P0051,Sneakers 51,Clothing,Direct Imports,47.56,85.28,156,69
+P0052,Jeans 52,Clothing,Metro Wholesale,116.33,183.66,214,44
+P0053,Sports Shorts 53,Clothing,Direct Imports,32.06,56.96,12,47
+P0054,Data Science Book 54,Books,Global Traders,24.0,41.68,155,76
+P0055,Hoodie 55,Clothing,Global Traders,41.38,56.89,121,37
+P0056,Running Shoes 56,Sports,Global Traders,183.37,308.49,448,75
+P0057,Phone Case 57,Accessories,Metro Wholesale,124.57,173.21,381,47
+P0058,Bookshelf 58,Furniture,TechSupplier,87.04,165.75,184,52
+P0059,Tennis Racket 59,Sports,Metro Wholesale,154.45,223.94,79,86
+P0060,Gym Bag 60,Sports,TechSupplier,21.58,28.96,187,98
+P0061,Cricket Bat 61,Sports,Urban Supply,106.05,190.14,248,56
+P0062,Storage Cabinet 62,Furniture,Global Traders,150.1,298.82,227,59
+P0063,Cricket Bat 63,Sports,Prime Distribution,235.54,319.76,49,20
+P0064,Phone Case 64,Accessories,Metro Wholesale,80.39,109.27,163,24
+P0065,Shampoo 65,Beauty,Global Traders,89.18,150.05,396,64
+P0066,Jacket 66,Clothing,Prime Distribution,100.66,173.4,333,36
+P0067,Cricket Bat 67,Sports,Global Traders,107.56,230.11,349,88
+P0068,Tennis Racket 68,Sports,Direct Imports,131.86,283.06,70,93
+P0069,Perfume 69,Beauty,Direct Imports,103.86,148.9,480,20
+P0070,Travel Bag 70,Accessories,Metro Wholesale,36.6,66.9,172,53
+P0071,Jeans 71,Clothing,Urban Supply,80.58,128.11,390,61
+P0072,Backpack 72,Accessories,Metro Wholesale,49.57,78.96,476,74
+P0073,Formal Shirt 73,Clothing,TechSupplier,39.66,84.98,415,20
+P0074,Programming Book 74,Books,Prime Distribution,3.93,8.18,105,23
+P0075,Electric Kettle 75,Home & Kitchen,Prime Distribution,295.58,400.28,237,35
+P0076,Gym Bag 76,Sports,Direct Imports,108.31,179.38,94,56
+P0077,Running Shoes 77,Sports,Prime Distribution,44.02,71.54,229,34
+P0078,Jacket 78,Clothing,Metro Wholesale,31.03,48.99,12,61
+P0079,T-Shirt 79,Clothing,TechSupplier,119.2,234.32,450,91
+P0080,T-Shirt 80,Clothing,Urban Supply,88.97,194.67,380,80
+P0081,Power Bank 81,Electronics,Global Traders,284.25,588.23,266,85
+P0082,T-Shirt 82,Clothing,Prime Distribution,49.12,97.83,307,36
+P0083,Jeans 83,Clothing,Prime Distribution,59.1,102.73,12,95
+P0084,Jacket 84,Clothing,Urban Supply,55.41,85.64,335,64
+P0085,Gym Bag 85,Sports,Global Traders,210.26,368.76,299,30
+P0086,Smartphone 86,Electronics,Global Traders,170.42,320.82,260,94
+P0087,Smartphone 87,Electronics,TechSupplier,799.76,1286.84,171,31
+P0088,Smartphone 88,Electronics,Direct Imports,348.56,704.32,96,81
+P0089,Formal Shirt 89,Clothing,Direct Imports,64.39,120.69,438,79
+P0090,Dinner Set 90,Home & Kitchen,Urban Supply,338.1,472.72,413,98
+P0091,Football 91,Sports,TechSupplier,28.62,47.3,96,75
+P0092,Mixer Grinder 92,Home & Kitchen,Prime Distribution,73.39,128.03,440,41
+P0093,USB-C Hub 93,Electronics,Metro Wholesale,803.02,1320.2,12,79
+P0094,Wireless Headphones 94,Electronics,Direct Imports,270.5,527.95,129,81
+P0095,Storage Cabinet 95,Furniture,TechSupplier,465.45,730.28,64,64
+P0096,Children's Book 96,Books,Prime Distribution,21.49,41.7,177,38
+P0097,Business Book 97,Books,Direct Imports,23.67,32.07,269,85
+P0098,Makeup Kit 98,Beauty,Urban Supply,56.12,98.42,304,40
+P0099,USB-C Hub 99,Electronics,Prime Distribution,547.83,801.28,177,34
+P0100,Bookshelf 100,Furniture,Metro Wholesale,170.77,339.09,81,85
+P0101,Business Book 101,Books,Direct Imports,32.56,50.12,21,93
+P0102,Watch Strap 102,Accessories,Prime Distribution,129.38,181.05,158,93
+P0103,Study Desk 103,Furniture,TechSupplier,172.74,365.5,408,76
+P0104,Hair Serum 104,Beauty,Global Traders,100.38,172.92,469,27
+P0105,Novel 105,Books,Urban Supply,34.36,52.87,436,84
+P0106,Wallet 106,Accessories,Urban Supply,72.21,141.16,251,36
+P0107,Hair Serum 107,Beauty,TechSupplier,95.63,138.37,354,22
+P0108,Formal Shirt 108,Clothing,Metro Wholesale,86.47,144.95,318,93
+P0109,Football 109,Sports,Urban Supply,27.97,58.87,147,49
+P0110,Sports Shorts 110,Clothing,Urban Supply,51.5,94.8,286,74
+P0111,Backpack 111,Accessories,Urban Supply,163.65,238.88,181,59
+P0112,Formal Shirt 112,Clothing,Direct Imports,102.95,170.08,354,99
+P0113,Makeup Kit 113,Beauty,Direct Imports,28.59,38.45,258,30
+P0114,Gym Bag 114,Sports,TechSupplier,76.84,159.39,353,83
+P0115,Tablet 115,Electronics,TechSupplier,541.95,760.95,55,96
+P0116,Laptop 116,Electronics,Global Traders,605.34,1335.44,197,44
+P0117,Programming Book 117,Books,Direct Imports,38.16,71.81,472,64
+P0118,Jeans 118,Clothing,Global Traders,17.02,24.16,330,80
+P0119,Water Bottle 119,Home & Kitchen,Urban Supply,273.34,434.66,15,63
+P0120,Standing Desk 120,Furniture,Urban Supply,373.52,538.27,174,88
+P0121,Self Help Book 121,Books,Urban Supply,46.33,64.61,136,34
+P0122,Football 122,Sports,TechSupplier,168.65,227.81,287,79
+P0123,Business Book 123,Books,Prime Distribution,38.66,79.72,42,63
+P0124,Jeans 124,Clothing,Direct Imports,128.77,214.64,67,86
+P0125,Hair Serum 125,Beauty,Urban Supply,48.11,75.89,141,96
+P0126,Bookshelf 126,Furniture,Prime Distribution,58.73,97.57,381,69
+P0127,Face Cream 127,Beauty,Global Traders,81.24,158.05,253,46
+P0128,Data Science Book 128,Books,Prime Distribution,28.32,38.7,209,74
+P0129,Dining Chair 129,Furniture,Global Traders,230.97,414.28,124,31
+P0130,Sunglasses 130,Accessories,Urban Supply,70.11,115.73,21,20
+P0131,Office Chair 131,Furniture,TechSupplier,405.28,587.19,465,34
+P0132,Smart Watch 132,Electronics,Global Traders,486.72,700.07,136,91
+P0133,Sneakers 133,Clothing,Global Traders,77.45,140.42,438,54
+P0134,Casual Dress 134,Clothing,Direct Imports,112.85,169.62,187,53
+P0135,Face Cream 135,Beauty,Direct Imports,48.97,104.87,351,85
+P0136,Storage Cabinet 136,Furniture,Prime Distribution,104.12,194.4,266,62
+P0137,Storage Cabinet 137,Furniture,Prime Distribution,189.24,290.23,316,34
+P0138,Football 138,Sports,Direct Imports,14.93,22.06,215,94
+P0139,Laptop 139,Electronics,Direct Imports,232.08,427.4,148,66
+P0140,Football 140,Sports,Direct Imports,112.35,218.25,24,56
+P0141,Yoga Mat 141,Sports,Direct Imports,169.09,355.52,278,25
+P0142,Office Chair 142,Furniture,Metro Wholesale,301.48,427.73,499,20
+P0143,Face Wash 143,Beauty,TechSupplier,61.67,114.69,323,89
+P0144,Cookware Set 144,Home & Kitchen,TechSupplier,146.94,221.96,488,44
+P0145,Self Help Book 145,Books,Metro Wholesale,56.05,78.07,311,41
+P0146,Novel 146,Books,Urban Supply,24.48,32.66,18,50
+P0147,Tablet 147,Electronics,Prime Distribution,20.68,45.12,187,20
+P0148,Smart Watch 148,Electronics,Direct Imports,633.63,1242.81,152,22
+P0149,Office Chair 149,Furniture,TechSupplier,52.97,101.65,202,77
+P0150,Power Bank 150,Electronics,Direct Imports,443.06,662.11,63,76
